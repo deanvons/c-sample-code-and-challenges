@@ -26,6 +26,5 @@ int main()
     printf("You forgot to define BUFFER_SIZE!\n");
 #endif
 
-    printf("\n\n=== ByteGarage ===\n\n");
     return EXIT_SUCCESS;
 }

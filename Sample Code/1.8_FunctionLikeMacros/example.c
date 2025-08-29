@@ -32,6 +32,5 @@ int main()
     printf("b before increment: %d\n", b_before);
     printf("b after increment: %d\n", b);
 
-    printf("\n\n=== ByteGarage ===\n\n");
     return EXIT_SUCCESS;
 }
